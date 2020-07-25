@@ -1,3 +1,22 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+#########################################
+# Created by: Joao Pedro Peters Barbosa #
+#                                       #
+# github: https://github.com/Jppbrbs    #
+# email: jpptrs@gmail.com               #
+#                                       #
+# Date: Jul/2020                        #
+#########################################
+
+
+"""
+freeCodeCamp Project5 - Data Analysis with Python Course
+"""
+
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import linregress
